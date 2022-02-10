@@ -18,7 +18,7 @@
     "next-images": "^1.2.0",
     "next-offline": "^4.0.6",
     "next-progressbar": "^1.0.0",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-redux": "^7.1.1",
